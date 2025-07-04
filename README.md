@@ -22,7 +22,7 @@ designed. Please note this example uses and requires Java 8 to working..
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
 
-Running the example from the command lines
+Running the example from the command lines is best example
 -------------------
 ```
 $ mvn jetty:run
