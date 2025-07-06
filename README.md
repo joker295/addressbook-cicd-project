@@ -7,7 +7,7 @@ a fast read for learning how to get started - not an example on how application 
 designed. Please note this example uses and requires Java and maven and a web-server to be working in the repository.
 This a testing webhook in jenkins
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
-Running the example from the command lines is best example
+Running the example from the command lines is best example for everyone.
 -------------------
 ```
 $ mvn jetty:run
