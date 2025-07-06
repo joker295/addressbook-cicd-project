@@ -38,7 +38,7 @@ These instructions were tested on NetBeans 8.0.2. You can get it from https://ww
 To checkout and run the project in NetBeans, do:
 - Team -> Git -> Clone-image
 - Set repository URL to https://github.com/vaadin/addressbook.git
-- Finish
+- Finish and then check the result 
 - Right click the imported project (Vaadin Addressbook Application) and select Run
 - Select GlassFish Server 4.1 -> Remember in Current IDE Session -> OK
 
@@ -47,7 +47,6 @@ You should now have a GlassFish server running on localhost:8080 and a browser t
 Importing in Eclipse
 --------------------
 These instructions were tested on Eclipse IDE for Java EE Developers Luna SR2. You can get it from http://eclipse.org/downloads/
-
 To checkout and run the project in Eclipse, do:
 - File -> Import...
 - Check out Maven Projects from SCM
