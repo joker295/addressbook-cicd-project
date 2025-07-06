@@ -1,6 +1,6 @@
 This is the readme content and let me update and we are learning.....updated content
 ##Addressbook Tutoriall lets learn my edit my change change my first jenkinsfilehhhh
-hi this is my new change to this repository 
+hi this is my new change to this repository and check the pool-scm configuration.
 ==================== 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). 
 a fast read for learning how to get started - not an example on how application should be in the present repository.
