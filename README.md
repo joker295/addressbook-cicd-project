@@ -2,9 +2,9 @@ This is the readme content and let me update and we are learning.....updated con
 ##Addressbook Tutoriall lets learn my edit my change change my first jenkinsfilehhhh
 hi this is my new change to this repository 
 ==================== 
-This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be in the 
+This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). 
 a fast read for learning how to get started - not an example on how application should be in the present repository.
-designed. Please note this example uses and requires Java 8 to working..
+designed. Please note this example uses and requires Java and maven to be working..
 This a testing webhook in jenkins
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 Running the example from the command lines is best example
