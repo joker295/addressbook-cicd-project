@@ -6,8 +6,6 @@ this is our new chnage this ASDSADASD
 testassdadsdasdasdasdsadasdasjjjjj sdadasb
 this is my first upate hi this is my first update  hello
 sddssdsdasda
-this this is change  SADADASDASD  esdads as 
-hello xczczs
 oollaalalaa
 this is my final repo adsadad
 this is the update
