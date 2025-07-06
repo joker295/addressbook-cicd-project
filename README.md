@@ -1,4 +1,4 @@
-This is the readme content and let me update and we are learning.....updated content
+This is the readme content and let me update and we are learning.....updated content in file
 ##Addressbook Tutoriall lets learn my edit my change change my first jenkins file 
 hi this is my new change to this repository and check the pool-scm configuration.
 ==================== 
@@ -18,7 +18,7 @@ Open [http://localhost:8080/](http://localhost:8080/)
 
 Importing in IntelliJ IDEA 14
 --------------------
-These instructions were tested on IntelliJ IDEA 14 CE. You can get it from https://www.jetbrains.com/idea/
+These instructions were tested on IntelliJ IDEA 14 CE. You can get it from https://www.jetbrains.com/idea/internet 
 
 To get the project up and running in IDEA, do:
 - File -> New -> Project from Version Control -> Git
