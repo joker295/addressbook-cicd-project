@@ -5,10 +5,8 @@ hi this is my new change to this repository
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be in the 
 a fast read for learning how to get started - not an example on how application should be in the present repository.
 designed. Please note this example uses and requires Java 8 to working..
-This a testing 
+This a testing webhook in jenkins
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
-
-
 Running the example from the command lines is best example
 -------------------
 ```
